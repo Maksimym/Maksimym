@@ -7,9 +7,9 @@
     Java/Kotlin/Groovy/COBOL languages
     MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
     Spring Framework, Spring Boot, Spring Test, C#, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-    Camunda, Camunda Cockpit, Camunda Modeleter
-    GitHub/GitLab/Gerrit/Bitbucket
- 📫 How to reach me: https://github.com/Maksimym?tab=repositories
+    Camunda, Camunda Cockpit, Camunda Modeleter.
+    
+📫 How to reach me: https://github.com/Maksimym?tab=repositories
 
 📫 How to reach me: https://www.linkedin.com/in/andrey-z-8a0b68255
 
